@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">calculadora_MVVM_2</string>
+    <string name="Calculadora1234" />
+    <string name="Calculadora">"Calculadora "</string>
+    <string name="view_result">0</string>
+    <string name="view_text_result">0</string>
+
+</resources>
